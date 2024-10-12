@@ -448,7 +448,7 @@ Bi#
 Trip#
 Quád#
 Seu acesso está bloqueado até %s. Acesse o site e consulte a lista de punidos para mais informações.#
- #
+de#
  Flamejante#
  Glacial#
  Trovejante#
@@ -1123,7 +1123,7 @@ Espiritualista#
 Espiritualista#
 Por favor, verifique a conexão; mais de 2 contas estão conectadas ao Plano Internet Cafe Time.#
 Você não pode utilizar símbolos especiais na criação do Clã.#
-#
+Você é usuário VIP. (Tempo restante: %dh %m %s)#
 Você não pode anexar esse item na mensagem.#
 Você não pode carregar mais itens. O restante será armazenado na mensagem.#
 Homem#
@@ -1463,13 +1463,13 @@ Não é possível deletar acima do nível %d#
 Não pode ser usado com o M.E.C.H.A.#
 Desmonte do Ferus#
 Saia do M.E.C.H.A.#
-itm#
+I#
 ROPs#
 Armaduras#
 Armas#
 Projétil#
 Cartas#
-etc#
+M#
 A conexão foi encerrada porque o programa demorou a responder#
 Versão incorreta do arquivo do HackShield. Reinstale o programa#
 Necessita de um Grimório#
@@ -2048,8 +2048,8 @@ Please write the party ad in memo.#
 Only party leader can add party advertisement.#
 It is already added party advertisment.#
 Content#
-eqp#
-fav#
+E#
+F#
 Bloquear Drop#
 Notice to find part members#
 Criar Grupo#
@@ -2242,7 +2242,7 @@ Guia de Navegação#
 --------------- Comandos ----------------#
 1. Use /navi (nome do mapa) x/y#
   ex) /navi prontera 100/100#
-  #
+  A pesquisa padrão é baseada em Zeny e Aeroplano.#
 2. X e Y representam as coordenadas#
   do mapa, você as consegue usando#
   o comando /where.#
@@ -2522,7 +2522,7 @@ Special#
 Flash sale item count renew#
 Sales closed#
 item count should be renewed#
-There is not eoungh item, so %d item has purchased.#
+Limite de compra excedido, somente %d item pode ser adquirido.#
 %s item's flash sale started.#
 %s item is out of stock or sale period is finished.#
 /limited sales#
@@ -2927,7 +2927,7 @@ Encerrar#
 Deseja encerrar a sua loja?#
 %02dd %02dhr %02dmin %02ds#
 #
-#
+Não é possível conectar-se devido ao limite de pessoas ter excedido.#
 Escolha o local para abrir a loja#
 Nome da mascote alterado para ^0000ff%s^000000.#
 Hora da compra#
@@ -2946,11 +2946,11 @@ Item reembolsado#
 Qtd. reembolsada#
 Hora do reembolso#
 Quantidade de zeny envolvido nessa transação será enviado para o Rodex#
-#
+Nome indisponível.#
 Seu pedido chegou#
 Você comprou este item na Loja de Estilos, esperamos que goste.#
 Não vender em NPCs#
-#
+Venda de itens bloqueada#
 #
 #
 #
@@ -2960,7 +2960,7 @@ Mudança Familiar#
 Prezado (a).\r\n\r\nA partir de hoje, \"%s\" e \"%s\" não serão mais responsáveis legais de \"%s\".\r\n\r\nEsta mensagem tem intuito informativo.\r\n\r\nSe deseja mais informações sobre relações familiares, por favor, dirija-se ao Escritório de Prontera.\r\n\r\nO referido é verdade e dou fé.#
 Janela de Visualização#
 #
-#
+[%s] está bloqueando a chamada.#
 #
 Você deve aguardar 24 horas para trocar a liderança do clã de novo.#
 Quando você se torna mini, você não pode transcender, tem uma limitação nos status e o HP e SP são reduzidos. \nVocê gostaria de prosseguir mesmo com essas restrições?#
@@ -2974,7 +2974,7 @@ Falhou...#
 Voltar#
 Sucesso#
 Remover#
-#
+Sr.#
 #
 Permitir ser chamado(a) por habilidades#
 Não permitir ser chamado(a) por habilidades#
@@ -2994,7 +2994,7 @@ Não é possível usar RODEX enquanto refina.#
 Feche todas as janelas antes de refinar.#
 Efeito de aura normalizado. [Aura ligada]#
 Efeito de aura simplificado. [Aura desligada]#
-#
+Aura está OFF. Por favor, ative, desative e tente novamente.#
 Você precisa de pelo menos %d Projéteis para usar essa habilidade.#
 #
 Troca indisponível com o personagem morto.#
@@ -3042,7 +3042,7 @@ Falha ao realizar a troca de equipamentos.#
 Pegar nome de Usuário.#
 A mensagem contém itens que não podem ser usados#
 #
-#
+Os últimos 7 dígitos do ID não são iguais.#
 Fechar#
 #
 #
@@ -3088,9 +3088,9 @@ Fechar#
 #
 #
 ON#
-#
-#
-#
+<Skin Original>#
+Selecionar Skin#
+Não pode ser deletado. Você ainda está participando da loteria.#
 #
 #
 #
@@ -3103,7 +3103,7 @@ Adicionar mini-janela de grupo#
 Remover mini-janela de grupo#
 #
 Deleta mês %d, dia %d#
-#
+Para o próximo nível#
 Completadas#
 Alfabética#
 #
@@ -3126,14 +3126,14 @@ Ataque mágico#
 Defesa mágica#
 Esquiva#
 Velocidade de ataque#
-#
+Informação de Atalho rápido#
 #
 #
 #
 #
 #
 Clã#
-#
+Banco#
 RODEX#
 Loja ROPs#
 #
@@ -3148,7 +3148,7 @@ Mini-janela não pode ser movida#
 #
 #
 #
-#
+Arquivo de Replay não encontrado.#
 Visuais#
 #
 #
@@ -3156,25 +3156,25 @@ Visuais#
 #
 #
 #
-#
-#
-#
-#
-#
+Equip#
+Visual#
+Título#
+/quake : Liga/Desliga efeito de tremedeira da tela#
+/aura2 : Liga/Desliga todos os efeitos de Aura#
 Configurações#
 Avançado#
-#
-#
+A configuração padrão será aplicada.#
+A configuração padrão será aplicada. Você concorda?#
 As alterações serão válidas ao reiniciar o jogo.#
-#
+Será necessário reiniciar o jogo para aplicar as configurações, você aceita?#
 Neblina#
 Aura Simples#
 Aura#
 Efeitos#
 Sombras#
 No Shift#
-#
-#
+Selecionar aceleração de hardware T&L#
+Selecionar dimensionamento do jogo#
 Tela cheia#
 Dedicado#
 Gráfico#
@@ -3192,31 +3192,31 @@ Carregando.\n^c92114Delete^000000 e-mails desnecessários.#
 CARREGANDO...#
 Assu.#
 Reme.#
-#
+Não pode ser iniciado junto com Ragnarök Online. O jogo será fechado.#
 Comandos#
-#
-#
-#
-#
-#
-#
-#
+Essa conta não existe.#
+Senhas não são iguais.#
+Falha na autenticação de IP.#
+Sem número de identificação, preencha suas informações de registro.#
+Conta bloqueada.#
+Erro de sistema.#
+Erro desconhecido encontrado.#
 Personalizar#
 Direções#
 Rotas#
 Compartilhar localização#
-#
-#
+Resultados [0]#
+Pesquisa e Guia#
 #
 Resultados#
 Direcional#
 Rota com teleporte#
 Abrir janela de navegação#
-#
+Conta não validada.#
 Clique em um ponto do mapa para compartilhar a coordenada no chat#
-#
-#
-#
+4. Se você selecionar serviço de itens, será levada em consideração o zeny e aeroplano.#
+5. Botão [<-]: alterna entre Modo Navegação <-> Modo Pesquisa#
+Use para alterar entre Modo Compartilhamento -> Modo Pesquisa.#
 Ganhou [%lld] de EXP de base#
 Valor de EXP [%lld]#
 ^bTaxa de Vendas^/b\n\nConfira as taxas cobradas sobre cada faixa de preço:\n\n0z a 10.000 z\n: Taxa de ^1567fe0%^000000\n10.001z a 100.000z\n: Taxa de ^1567fe0%^000000\n100.001z a 1.000.000z\n: Taxa de ^1567fe0%^000000\n1.000.001z a 10.000.000 z\n: Taxa de ^1567fe0%^000000\n10.000.001z a 100,000,000 z\n: Taxa de ^1567fe5%^000000\nAcima de 100.000.001 z\n: taxa de ^1567fe5%^000000\n#
@@ -3224,7 +3224,7 @@ Valor: #
 Você receberá por Rodex o zeny referente aos itens vendidos.#
 O zeny será debitado do seu personagem no ato da compra.#
 #
-#
+Nível insuficiente para entrar em um grupo.#
 Valor de EXP [%lld] de Classe#
 Ganhou [%lld] de EXP de classe#
 #
@@ -3236,8 +3236,8 @@ Nº.#
 #
 A mini-janela de grupo está se sobrepondo e não pode ser usada#
 Minha Loja#
-#
-#
+Caixa#
+Dicas#
 #
 Repetir#
 Para repetir, selecione os materiais novamente.#
@@ -3245,13 +3245,13 @@ Não pode repetir sem os materiais de refino.#
 Não pode repetir sem os zenys necessários.#
 Não pode repetir sem a Bênção do Ferreiro.#
 O item foi perdido.#
+Todos os atributos reduzidos.#
+Efeitos que reduzem atributos foram cancelados.#
 #
 #
 #
 #
-#
-#
-#
+Digite um termo para pesquisa#
 #
 #
 #
@@ -3271,12 +3271,12 @@ Você é líder desse grupo e não há ninguém online. Se sair, o grupo será desfeito
 Encerrar#
 [%s] conseguiu refinar [+%d %s].#
 [%s] não conseguiu refinar [+%d %s].#
-#
+Você pode excluir após delegar um novo líder para o grupo.#
 Subir#
 Descer#
 Padrão#
 #
-#
+%s tem restrições de negociação neste mapa.#
 Auto#
 O homunculus não pode comer se o RODEX estiver aberto.#
 Homunculus alimentado com [%s] restam: %d un.#
@@ -3284,52 +3284,52 @@ Alimentação automática de Homunculus ligada.#
 Alimentação automática de Homunculus desligada.#
 Homunculus precisam de EXP para evoluir.#
 Chance: %d%%#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+Por favor, selecione um alvo para o seu homunculus usando Alt + Botão direito do mouse.#
+Não existe um alvo para seu homunculus. Para um novo alvo, use Alt + Botão direito do mouse.#
+Lista de Vendas#
+Lista de Compras#
+Novo#
+Popular#
+Limitado#
+Aluguel#
+Equipamentos#
+Bônus#
+Poções#
+Outros#
+Descontos#
+Custo#
+Comprar#
+https://hype.games/br/ragnarok#
+Pesquisa#
+ROPs Grátis#
+Usar ROPs Grátis#
+ROPs atuais#
+Atualizar#
 #
 #
 #
 #
 HP/SP não serão recuperados enquanto seu peso atual estiver acima do peso máximo.#
-#
+Você só pode comprar 8 itens iguais de uma vez.#
 #
 Linha 3315#
 Usuário não encontrado#   
 Conta bloqueada#
-#
+País indisponível (Usuário indisponível)#
 Senha ou usuário incorreto#
 Entre em contato com Suporte#
-#
-#
-#
-#
-#
-#
-#
+PAYPAL bloqueado#
+País indisponível#
+PAYPAL bloqueado#
+Internet bloqueada#
+Usuário menor de idade#
+A senha permanece igual há mais de 90 dias#
+Erro de dado inserido#
 Sistema indisponível#
-#
+Erro de sistema#
 Usar %s#
 Como deseja teleportar?#
-#
+Mapa indisponível para viagem.#
 Escolha um mapa permitido.#
 Você não tem esse item.#
 #
@@ -3350,9 +3350,9 @@ Cor do Cabelo#
 às %d:%d:%d#
 #
 Voltar#
-#
+Este item não pode ser usado.#
 Você já está no mapa.#
-#
+Personagens mortos não podem se teleportar.#
 Criar Personagem#
 Registrar seu Grupo na Agência#
 Registrar Grupo#
@@ -3386,15 +3386,15 @@ Confirmar#
 #
 #
 Não teleporta perto do NPC.#
+Taekwon#
 #
 #
 #
 #
 #
 #
-#
-#
-#
+Sem lista de bloqueados#
+- Lista de Bloqueados -#
 #
 #
 #
@@ -3406,7 +3406,7 @@ EXP base#
 EXP classe#
 Recompensa#
 Ativar/Desativar#
-#
+Mover para baixo#
 Ocultar da tela#
 #
 #
@@ -3431,13 +3431,13 @@ Defensor#
 #
 #
 #
+Força e Ataque físico melhorados.#
+Força, Inteligência, Destreza e Precisão melhoradas.#
+Defesa e HP melhorados.#
 #
 #
 #
-#
-#
-#
-#
+A conexão está lenta no momento. Tente reconectar-se mais tarde.#
 #
 #
 O líder do grupo não pode aceitar pedidos agora.#
@@ -3446,9 +3446,9 @@ Atacante#
 #
 #
 #
-#
-#
-#
+Vocês já são contatos#
+Pessoa não encontrada#
+Outro personagem já está enviando pedido de amizade.#
 Exibir Invocações#
 Não exibir Invocações#
 Conta bloqueada temporariamente devido PIN incorreto. \n O Bloqueio será suspenso após %02dhoras %02dminutos, Análise do Bloqueio será feita através da Central de Suporte -> Escolha a opção "Conta Bloqueada" -> Preencha o formulário com a conta de jogo.#
@@ -3456,13 +3456,13 @@ Limite de PIN excedido. \n ^ff0000Acesse novamente^000000.#
 Sistema#
 %dº dia de Logue e Ganhe#
 #
-#
+Essa habilidade só pode ser usada dentro de um Grupo.#
 Recrutamento interrompido#
 #
 #
 #
-#
-#
+Ataque Físico e Mágico melhorados.#
+Ataque Físico e Mágico foram reduzidos.#
 Logue e Ganhe do servidor %s#
 Período: %02d.%02d ~ %02d.%02d até meia-noite#
 %dº dia#
@@ -3480,11 +3480,11 @@ O evento de Logue e Ganhe não está ativo no momento.#
 #
 #
 #
-#
+Essa habilidade só pode ser usada se você for Líder do grupo.#
 O SP do parceiro é insuficiente ou a habilidade não pode ser usada.#
 Aviso sobre a remoção da sua loja#
 Olá!\r\nSua loja foi fechada antes da hora porque percebemos que ela violava a política de conduta do jogo.\r\n Se precisar se mais informações, envie um ticket.\r\nAgradecemos a compreensão.#
-#
+Você não pode colocar um valor maior que 50%.#
 #
 #
 Aceitar#
@@ -3527,18 +3527,18 @@ Durante o jogo, seus pedidos de grupo não serão aceitos até fechar o Client.#
 Fundo de Emblema#
 Exibir fundo do Emblema de Clã.#
 Não exibir fundo do Emblema de Clã.#
-#
-#
-#
+Nenhuma arma equipada.#
+Esferas Espirituais insuficientes.#
+Contém uma habilidade (%s) que não pode ser aprendida.#
 /frame#
-#
-#
+Essa habilidade só pode ser usada durante o intervalo de Reflexo de Combate.#
+Usuário ou Senha incorretos.#
 #
 #
 #
 #
 Conta não possui passe de acesso ao Valhalla#
-#
+Carregando Armazém.#
 #
 Deletar#
 Responder#
@@ -3556,8 +3556,8 @@ A permuta falhou.#
 A permuta foi um sucesso.#
 Itens insuficientes para a permuta.#
 Esse item já foi vendido e está fora de estoque.#
-#
-#
+Morte#
+PvP#
 Expandir inventário#
 Usar 1 ^0000ff%s^000000 para expandir de (^0000ff%d^000000) a (^0000ff%d^000000) itens? ^ff0000Não pode ser revertida^000000#
 A expansão do inventário falhou.#
@@ -3602,7 +3602,7 @@ Aura#
 Efeitos#
 Sombras#
 Janela não pode ser fechada agora.#
-Função Hardware T&L Acceleration#
+Não há magias memorizadas com um Grimório#
 Resolução#
 Tela cheia#
 Mouse dedicado#
@@ -3637,32 +3637,32 @@ Esse personagem não tem as habilidades básicas.#
 #
 #
 #
+O login está sendo restringido por uma instabilidade no servidor.#
+Mensagem#
 #
 #
-#
-#
-#
+O refino é muito alto, não é possível continuar.#
 #
 Esse item tem refino#
 Esse item tem cartas ou encantos#
 #
 #
 #
+Janela de registro das contas limitadas para venda#
+DB name do item#
+ID do item#
+Itens vendidos#
+Hora de início da venda#
+Hora do fim da venda#
+Conta limitada#
+Período: %dm %dh %dd %m#
+Uma vez por Conta#
+%d un. disponíveis#
+#
+Esgotado#
 #
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+Não é possível adicionar mais produtos#
 Itens equipados não podem ser trocados. Desequipe o item.#
 #
 #
@@ -3788,7 +3788,7 @@ Não pode comprar itens enquanto sua loja estiver aberta.#
 #
 #
 #
-#
+Pesquisar#
 #
 #
 #
@@ -3850,8 +3850,8 @@ Mensagem#
 #
 #
 #
-#
-#
+Esconder usuários na tela#
+Exibir usuários na tela#
 #
 #
 #
@@ -3913,6 +3913,11 @@ DEF#
 #
 #
 #
+GRÁTIS!#
+Período de Aluguel#
+Pode ser alugado por até 14 dias.#
+Negociação não disponível#
+Abrir ao iniciar#
 #
 #
 #
@@ -3934,12 +3939,7 @@ DEF#
 #
 #
 #
-#
-#
-#
-#
-#
-#
+Um erro ocorreu. Tente novamente.#
 #
 #
 #
@@ -3993,6 +3993,14 @@ Por favor, tente novamente em alguns minutos.#
 #
 #
 #
+Já existe um alvo rastreado.#
+Iniciar rastreamento do alvo.#
+Não há alvos sendo rastreados.#
+Fim do rastreamento.#
+Tempo expirou, fim do rastreamento.#
+Destino não encontrado.#
+#
+Não é possível invocar mais NPCs.#
 #
 #
 #
@@ -4014,16 +4022,8 @@ Por favor, tente novamente em alguns minutos.#
 #
 #
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+>> Item : %s / Un. : %d / Data : %dm:%dd:%dh:%m ~ %da:%dm:%dd:%dh:%m#
+~ %dm %dh %dd %dm %da#
 #
 #
 #
